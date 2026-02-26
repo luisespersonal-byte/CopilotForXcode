@@ -1,4 +1,10 @@
-# Guía de Instalación en macOS
+# Copilot for Xcode <img alt="Logo" src="/AppIcon.png" align="right" height="50">
+
+**Copilot for Xcode** es el proyecto de GitHub que permite usar **GitHub Copilot como agente dentro de Xcode**. Es una extensión del editor de código fuente de Xcode que integra GitHub Copilot, Codeium y ChatGPT directamente en tu entorno de desarrollo.
+
+- 🔗 Proyecto en GitHub: [https://github.com/intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode)
+
+## Guía de Instalación en macOS
 
 [English installation instructions / Instrucciones de instalación en inglés](README.md#installation-and-setup)
 
