@@ -54,6 +54,8 @@ For more information, check the [Wiki Page](https://copilotforxcode.intii.com/wi
 
 ## Prerequisites
 
+- macOS 13 (Ventura) or later.
+- Xcode 15 or later (Swift 5.9+).
 - Public network connection.
 
 For suggestion features:
