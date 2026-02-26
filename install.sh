@@ -95,7 +95,7 @@ else
     info "Extracting …"
     unzip -q "$zip_path" -d "$tmp_dir"
 
-    extracted_app=$(find "$tmp_dir" -maxdepth 2 -name "*.app" | head -1)
+    extracted_app=$(find "$tmp_dir" -maxdepth 3 -name "*.app" | head -1)
     if [[ -z "$extracted_app" ]]; then
         error "Could not find the .app bundle inside the downloaded archive."
         rm -rf "$tmp_dir"
