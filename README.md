@@ -89,7 +89,7 @@ For chat and prompt to code features:
 
 ### Install
 
-**One-line installer** — runs the bundled `install.sh` script which handles the download, moves the app to `/Applications`, and prints the remaining manual steps:
+**One-line installer** — runs the bundled `install.sh` script which handles the download, moves the app to `/Applications`, and prints the remaining manual steps (you can [review the script](install.sh) first):
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/intitni/CopilotForXcode/main/install.sh)
