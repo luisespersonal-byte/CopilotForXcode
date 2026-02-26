@@ -91,7 +91,17 @@ For chat and prompt to code features:
 > 4. Setup accounts and models in the host app.
 > 5. Optionally, update the settings of each feature in the host app, and setup keybindings.
 
-### Install
+### Automated Install
+
+Run the following command in Terminal to install automatically:
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/intitni/CopilotForXcode/main/install.sh)
+```
+
+The script checks prerequisites, installs the app via Homebrew (if available), and guides you through the required manual steps.
+
+### Manual Install
 
 You can install it via [Homebrew](http://brew.sh/):
 

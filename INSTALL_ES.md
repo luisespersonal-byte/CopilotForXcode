@@ -33,7 +33,25 @@ Para funciones de chat y "Prompt to Code":
 
 > Si te preocupa el registro de teclas y no puedes confiar en el binario, recomendamos revisar el código y [compilarlo tú mismo](DEVELOPMENT.md).
 
-## Instalación y Configuración
+## Instalación Automática
+
+Para instalar automáticamente con un solo comando, ejecuta esto en la **Terminal**:
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/intitni/CopilotForXcode/main/install.sh)
+```
+
+El script comprobará los requisitos previos, instalará la app mediante Homebrew (si está disponible) y te guiará paso a paso por las acciones manuales necesarias.
+
+Si ya tienes el repositorio clonado localmente, también puedes ejecutar:
+
+```bash
+bash install.sh
+```
+
+---
+
+## Instalación y Configuración Manual
 
 > El proceso de instalación puede parecer complejo al principio. Aquí tienes un resumen rápido:
 >
