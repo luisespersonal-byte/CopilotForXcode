@@ -93,13 +93,25 @@ For chat and prompt to code features:
 
 ### Install
 
-You can install it via [Homebrew](http://brew.sh/):
+**One-line installer** — runs the bundled `install.sh` script which handles the download, moves the app to `/Applications`, and prints the remaining manual steps:
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/intitni/CopilotForXcode/main/install.sh)
+```
+
+Or, if you have already cloned the repository:
+
+```bash
+bash install.sh
+```
+
+Alternatively, you can install it via [Homebrew](http://brew.sh/) directly:
 
 ```bash
 brew install --cask copilot-for-xcode
 ```
 
-Or install it manually, by downloading the `Copilot for Xcode.app` from the latest [release](https://github.com/intitni/CopilotForXcode/releases).
+Or install it manually by downloading the `Copilot for Xcode.app` from the latest [release](https://github.com/intitni/CopilotForXcode/releases).
 
 Please make sure the app is inside the Applications folder.
 
