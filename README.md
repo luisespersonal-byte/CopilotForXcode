@@ -81,6 +81,8 @@ For chat and prompt to code features:
 
 ## Installation and Setup
 
+[🇪🇸 Guía de instalación en español / Spanish installation guide](INSTALL_ES.md)
+
 > The installation process is a bit complicated. Here is a quick overview:
 > 
 > 1. Install the app into the Applications folder, open it once.
